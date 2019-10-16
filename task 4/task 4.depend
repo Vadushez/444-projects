@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1571213796 source:/home/student/444-projects/task 4/main.cpp
+1571215141 source:/home/student/444-projects/task 4/main.cpp
 	<iostream>
+	<bitset>
 
